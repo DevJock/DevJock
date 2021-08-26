@@ -1,6 +1,6 @@
 ## Howdy🤠, I'm Chiraag Bangera! 👋
 
-- 🌱 I’m currently working on a full-stack project!
+- 🌱 I’m currently working as a R&D Software Engineer.
 - 💬 Ask me about C#, Unity3D and Robotics.
 - 📫 Reach me through email or Linkedin with the links below!
 
